@@ -1,0 +1,36 @@
+.main{
+    flex:1;
+    color: #FFF;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex=direction: column;
+    padding: 20px;
+}
+.gridIcon{
+    width: 70px;
+    height: 70px;
+    border-radius: 40%;
+    background-color: rgba(0, 0, 0, .1);
+    display: flex;
+    justify-content: center;
+    aling-items: center;
+
+}
+.gridTitle{
+    font-size:23px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 20px;
+
+}
+.gridInfo{
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 14px;
+}
+.yourImc{
+    fort-size: 17px;
+    margin-top: 10px;
+}
